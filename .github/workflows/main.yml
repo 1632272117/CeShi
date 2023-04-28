@@ -17,7 +17,6 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.9.12
-https://blog.csdn.net/qq_52588437/​articl​e/details/128341430
       - name: Set timezone
         run: |
           cp /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
