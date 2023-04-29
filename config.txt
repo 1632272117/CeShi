@@ -13,7 +13,7 @@
 # 和风天气apikey
 "weather_key": "03d2ae40292544dbb75c527126e8104f",
 # 天行数据apikey
-"tian_api": "4bd063aff33960340d6f87676885b9ee",
+"tian_api": "3b55fc70f5b57ee481bf243bba8c7cc5",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
 "region": "西宁市",
 # 生日1
